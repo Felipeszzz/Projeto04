@@ -1,1 +1,3 @@
-# Nessa branch criamos um menu principal contendo 5 opções ("Novo Cliente", "Apagar Cliente", "Listar Clientes", "Debito" e "Sair") e desenvolvemos cada uma dessas funções.
+# Nessa Branch acrescentamos mais 5 funções: Depositar, Extrato, Transferencias entre contas, Salvar e Carregar clientes (as funções de salvar e carregar estão sendo salvas em um arquivo não binário chamado Informações). 
+# Tivemos um pequeno problema, que foi na função de extrato,os valores que foram realizados no debito e no deposito não estão sendo armazenados no arquivo txt do extrato, sendo que as devidas funções estão funcionado corretamente, de resto tudo está sendo armazenado 
+  
